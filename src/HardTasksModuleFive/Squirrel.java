@@ -2,6 +2,7 @@ package HardTasksModuleFive;
 
 public class Squirrel {
 	int [] nuts;
+	int da = 3;
 
 	public Squirrel(int[]nuts){
 		this.nuts = nuts;
