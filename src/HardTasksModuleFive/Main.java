@@ -3,7 +3,8 @@ package HardTasksModuleFive;
 public class Main {
 	public static void main (String[]args){
 
-
+		int count = 3;
+		count = 23;
 //		TicTacToe board = new TicTacToe();
 //
 //		board.newGame();
