@@ -3,7 +3,7 @@ package HardTasksModuleFive;
 public class Main {
 	public static void main (String[]args){
 
-		System.out.println("new_branch");
+		System.out.println("master");
 //		TicTacToe board = new TicTacToe();
 //
 //		board.newGame();
