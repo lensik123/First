@@ -3,8 +3,7 @@ package HardTasksModuleFive;
 public class Main {
 	public static void main (String[]args){
 
-		int count = 3;
-		count = 23;
+		System.out.println("bug_fix");
 //		TicTacToe board = new TicTacToe();
 //
 //		board.newGame();
@@ -63,21 +62,22 @@ public class Main {
 //			System.out.println();
 //		}
 
-		Squirrel s = new Squirrel(new int[] {3});
-		System.out.println(s.maxNuts());
+//		Squirrel s = new Squirrel(new int[] {3});
+//		System.out.println(s.maxNuts());
+//
+//		Squirrel s2 = new Squirrel(new int[] {1, -2, 3, 1, -1, -4, 2, 3});
+//		System.out.println(s2.maxNuts());
+//
+//		Squirrel s3 = new Squirrel(new int[] {2, 5, -3, -1});
+//		System.out.println(s3.maxNuts());
+//		String res = s3.getNuts(3) + "";
+//		System.out.println(res);
+//		Squirrel s4 = new Squirrel(new int[] {-2, 2, 4, -6, -2, -1, -2, 1});
+//		System.out.println(s4.maxNuts());
+//
+//		System.out.println(s4.maxNuts());
+//		System.out.println(s4.maxNuts());
 
-		Squirrel s2 = new Squirrel(new int[] {1, -2, 3, 1, -1, -4, 2, 3});
-		System.out.println(s2.maxNuts());
-
-		Squirrel s3 = new Squirrel(new int[] {2, 5, -3, -1});
-		System.out.println(s3.maxNuts());
-		String res = s3.getNuts(3) + "";
-		System.out.println(res);
-		Squirrel s4 = new Squirrel(new int[] {-2, 2, 4, -6, -2, -1, -2, 1});
-		System.out.println(s4.maxNuts());
-
-		System.out.println(s4.maxNuts());
-		System.out.println(s4.maxNuts());
 
 
 
