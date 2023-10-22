@@ -79,17 +79,14 @@ public class Main {
 //		System.out.println(s4.maxNuts());
 
 
-    new_br
+    
 		int [] da  = {1,2,3,4,5};
 
 		//arrays
 		for (int i : da){
 			System.out.println(i);
 		}
-=======
 
-
-  
 		System.out.println("da");
 
 
