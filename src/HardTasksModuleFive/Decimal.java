@@ -1,11 +1,15 @@
 package HardTasksModuleFive;
+import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Decimal {
 
 	public static void main (String[]args){
-		String numbers = "12345678";
+
+		Scanner scanner = new Scanner(System.in);
+
+		String numbers = scanner.next().toString();
 
 		char separator = ',';
 
