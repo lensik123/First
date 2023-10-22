@@ -78,6 +78,13 @@ public class Main {
 //		System.out.println(s4.maxNuts());
 //		System.out.println(s4.maxNuts());
 
+		int [] array  = {1,2,3,4,5};
+
+		//arrays
+		for (int i : array){
+			System.out.println(i);
+		}
+
 
 		
 
